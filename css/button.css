@@ -1,0 +1,54 @@
+.btn {
+    background-color: #135a9c; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+  }
+
+body {
+  background: lightblue url("chest.jpg") no-repeat fixed center;
+  background-image: url("chest.jpg");
+}
+
+.header {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.centerpad {
+    width: 800px;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.cgbtn {
+    background-color: #135a9c; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+  }
+  
+table, th, td {
+    border: 1px solid black;
+    height: 50px;
+  }
+
+td {
+    text-align:center;
+}
